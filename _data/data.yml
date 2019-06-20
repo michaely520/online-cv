@@ -86,8 +86,7 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: |
-            -"A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
