@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Michael Youssef
@@ -84,13 +84,15 @@ education:
 projects:
     title: Projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: GUI-Based Bot Analysis
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Led a security research team to explore the viability of GUI bots, which combine computer vision and human-like mouse movements
+                  to emulate human behavior and bypass server side security checks."
+
+      - title: Center For Community Health Online Classifier
+        link: "#"
+        tagline: "Led a development team that partnered with San Diego nonprofit Center for Community Health. We developed a web-based data classification 
+                system with Django to automate health score classifications and visualize areas of need to better address food insecurity in the San Diego area."
 
       - title: Tempo
         link: "#"
