@@ -94,14 +94,14 @@ education:
       university: University of California, San Diego
       time: 2018 - 2019
       details:
-        GPA - 3.72 |
-        Specialization in Computer Systems
+        GPA: 3.72<br/>
+        Specialization: Computer Systems
 
     - degree: BS in Computer Science
       university: University of California, San Diego
       time: 2015 - 2018
       details: |
-        Major GPA - 3.8
+        Major GPA: 3.8<br/>
         Honors: Phi Beta Kappa, Cum Laude
 
 projects:
