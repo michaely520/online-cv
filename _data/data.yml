@@ -52,7 +52,7 @@ experiences:
       time: Summer 2017
       company: Cisco, San Jose
       details: |
-          - Developed a name-matching algorithm using decision-based logic that reduced runtime by one order of magnitude to deduplicate names
+          - Developed a name-matching algorithm to deduplicate names using decision-based logic that reduced runtime by one order of magnitude
           - Developed a name deduplication microservice and a web platform for teams to deduplicate their data
           - Developed and pitched an excel-based name-checker to resolve naming issues the moment they are created
           - Languages and frameworks used: Python, Django, PostgreSQL, jQuery, JavaScript, HTML, CSS 
@@ -86,7 +86,8 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+            -"A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
