@@ -44,22 +44,26 @@ experiences:
       time: Summer 2018
       company: LinkedIn, Sunnyvale
       details: |
-          - Developed functionality to dynamically resolve dependencies on configuration deployment in SaaS environments
+          - Added functionality to dynamically resolve dependency conflicts within configuration deployments in SaaS environments
           - Developed a web platform for developers to view the health and history of SaaS deployments
+          - Languages and frameworks: Java, Flask, Python, Gradle
 
     - role: Software Engineering Intern
       time: Summer 2017
       company: Cisco, San Jose
       details: |
-          - Bullet point
-          - Bullet point
+          - Developed a name-matching algorithm using decision-based logic that reduced runtime by one order of magnitude to deduplicate names
+          - Developed a name deduplication microservice and a web platform for teams to deduplicate their data
+          - Developed and pitched an excel-based name-checker to resolve naming issues the moment they are created
+          - Languages and frameworks used: Python, Django, PostgreSQL, jQuery, JavaScript, HTML, CSS 
 
     - role: Software Engineering Intern
       time: Summer 2016
       company: Complete Solar, Milpitas
       details: |
-          - Bullet point
-          - Bullet point
+          - Developed user dashboards and managerial tools to assign roles and view past and upcoming commission reports. 
+          - Automated the calculation of commission payments for workers based on different commission rules configured per worker. 
+          - Languages and frameworks used: PHP, MySQL, jQuery, JavaScript, HTML, CSS, SASS 
           
 
 education:
