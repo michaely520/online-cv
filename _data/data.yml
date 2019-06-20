@@ -61,8 +61,8 @@ experiences:
       time: Summer 2016
       company: Complete Solar, Milpitas
       details: |
-          - Developed user dashboards and managerial tools to assign roles and view past and upcoming commission reports. 
-          - Automated the calculation of commission payments for workers based on different commission rules configured per worker. 
+          - Developed user dashboards and managerial tools to assign roles and view past and upcoming commission reports
+          - Automated the calculation of commission payments for workers based on different commission rules configured per worker
           - Languages and frameworks used: PHP, MySQL, jQuery, JavaScript, HTML, CSS, SASS 
           
 
@@ -143,10 +143,7 @@ skills:
       - name: C++
         level: 60%
       
-      - name: PHP++
-        level: 60%
-            
-      - name: C++
+      - name: PHP
         level: 60%
               
       - name: OCAML
@@ -155,7 +152,7 @@ skills:
       - name: SQL
         level: 60%
         
-      - name: BASH
+      - name: Bash
         level: 60%
       
       - name: HTML & CSS
@@ -185,8 +182,6 @@ skills:
       - name: PostgreSQL
         level: 50%
         
-      - name: PostgreSQL
-        level: 50%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
