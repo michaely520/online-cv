@@ -15,7 +15,7 @@ sidebar:
     email: mayousse@ucsd.edu
     phone: 
     website: #do not add http://
-    linkedin: www.linkedin.com/in/michael-youssef-9aa046127/
+    linkedin: michael-youssef-9aa046127/
     github: michaely520
     gitlab:
     bitbucket:
@@ -42,21 +42,6 @@ sidebar:
         link:
 
 
-
-education:
-    - degree: MS in Computer Science
-      university: University of California, San Diego
-      time: 2018 - 2019
-      details:
-        GPA - 3.72 |\n
-        Specialization in Computer Systems\n
-
-    - degree: BS in Computer Science
-      university: University of California, San Diego
-      time: 2015 - 2018
-      details: |
-        Major GPA - 3.8
-        Honors: Phi Beta Kappa, Cum Laude
 
 
 experiences:
@@ -102,6 +87,22 @@ experiences:
 
           - Bullet point
           - Bullet point
+          
+
+education:
+    - degree: MS in Computer Science
+      university: University of California, San Diego
+      time: 2018 - 2019
+      details:
+        GPA - 3.72 |
+        Specialization in Computer Systems
+
+    - degree: BS in Computer Science
+      university: University of California, San Diego
+      time: 2015 - 2018
+      details: |
+        Major GPA - 3.8
+        Honors: Phi Beta Kappa, Cum Laude
 
 projects:
     title: Projects
